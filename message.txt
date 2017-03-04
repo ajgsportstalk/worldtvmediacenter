@@ -4,10 +4,10 @@
                                               How to Use World TV Media Center 
             All the top Apps refresh daily, While using WorldTV here are the Key Features we have added as of 3/4/2017
 
-[COLORwhite][b]What's New[/b][/COLOR]
-- [COLORwhite][b]Menu [/b][/COLOR]section gives [colororange][b]What's playing in theater's[/b][/COLOR] 
+[COLORwhite][b]What's New[/B][/COLOR]
+- [COLORwhite][B]Menu [/B][/COLOR]section gives [colororange][B]What's playing in theater's[/B][/COLOR] 
 - The Sports Section added Networks in the submenu 
-- [COLORwhite][b]To naviagate the submenu hit the down key on your remote to view extended menu[/b][/COLOR]
+- [COLORwhite][B]To naviagate the submenu hit the down key on your remote to view extended menu[/B][/COLOR]
 - WatchNow submenu has all The Movies,TVShows,Kids and Adults content
 - WatchLive gives you all the categories of your favorite live tv content which you can watch Online 
 - Music section give you a huge music playlist of each categories and the submenu give you a search menu 
