@@ -4,7 +4,7 @@
                                                                                            "How to Use World TV Media Center" 
             All the top Apps refresh daily, While using WorldTV here are the Key Features we have added as of 3/4/2017
 
-[COLORwhite]What's New[/COLOR]
+[COLORwhite]What's New![/COLOR]
 - [COLORwhite]Menu [/COLOR]section gives [COLORorange]What's playing in theater's[/COLOR] 
 - The Sports Section added Networks in the submenu 
 - [COLORwhite]To naviagate the submenu hit the down key on your remote to view extended menu[/COLOR]
@@ -14,4 +14,4 @@
 ~ Please Read This Before Use ~
 
 
-We have updated as 0f 3/5/17
+We have updated as 3/5/17
