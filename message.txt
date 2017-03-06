@@ -4,6 +4,9 @@
                                                                                            "How to Use World TV Media Center" 
             All the top Apps refresh daily, While using WorldTV here are the Key Features we have added as of 3/4/2017
 
+New Update 3/5/17
+-Menu Tab is called The Hub with tutorials In the submenu
+
 [COLORwhite]What's New![/COLOR]
 - [COLORwhite]Menu [/COLOR]section gives [COLORorange]What's playing in theater's[/COLOR] 
 - The Sports Section added Networks in the submenu 
