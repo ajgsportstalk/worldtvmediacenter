@@ -5,15 +5,14 @@
             All the top Apps refresh daily, While using WorldTV here are the Key Features we have added as of 4/17/2017
 
 New Update 4/17/17
-- Menu Tab is called The Hub using the Specto addon and tutorials In the submenu
+- The hub has the latest in theaters with the submenu has all the mantiance tools to mantiance device 
 - We will keep you updated every month
-[COLORwhite]What's New![/COLOR]
-- [COLORwhite]Menu [/COLOR]section gives [COLORorange]What's playing in theater's[/COLOR] 
+[COLORwhite]~ What's New! ~[/COLOR]
+- 
 - The Sports Section added Networks in the submenu 
 - [COLORwhite]To naviagate the submenu hit the down key on your remote to view extended menu[/COLOR]
-- WatchNow submenu has all The Movies,TVShows,Kids Fitness, Adults content
-- WatchTV gives you all the categories of your favorite live tv content which you can watch Online 
+- WatchNow submenu has Movies,TVShows,Kids Fitness, Adults content
 - Music section give you a huge music playlist 
 - Adult Content is in the WatchNow Section Without A Code 
-~ Please Read This Message before Usnig World TV Media Center ~
+~ Please Read This Message before Using World TV Media Center ~
 We have updates as 4/17/17 Next Update is 5/01/17
